@@ -1,15 +1,16 @@
-# 🌌 Prince: Love, Betrayal, and Revenge
+# Prince: Love, Betrayal, and Revenge
 
-<div align="center">
-  <img src="./poster.png" alt="Prince and Daksha" width="500px">
-  <p><em>The heart-wrenching sequel to "The Parrot of a Thousand Stars"</em></p>
-</div>
 
----
 
-> *"Sometimes, to save what we love, we must become what we fear."*
+<div data-full-width="true"><figure><img src="poster.png" alt=""><figcaption><p>Prince: Love, Betrayal, and Revenge</p></figcaption></figure></div>
 
----
+_The heart-wrenching sequel to "The Parrot of a Thousand Stars"_
+
+***
+
+> _"Sometimes, to save what we love, we must become what we fear."_
+
+***
 
 ## 📖 About the Story
 
@@ -19,9 +20,7 @@ Was their meeting truly chance, or part of an ancient cosmic plan? As Prince inf
 
 And in the heart of Veloria, guarded by an all-powerful entity known as Chronos, lies a truth that will shatter everything Prince believed about Daksha and himself. His final confrontation will force him to choose between revenge and redemption—with the fate of multiple worlds hanging in the balance.
 
-<div align="center">
-  <img src="./Cosmic Divide.png" alt="Cosmic Divide" width="300px">
-</div>
+<div align="center"><img src="Cosmic Divide.png" alt="Cosmic Divide" width="300"></div>
 
 ## ✨ Journey Through the Cosmos
 
@@ -40,15 +39,13 @@ And in the heart of Veloria, guarded by an all-powerful entity known as Chronos,
 - [**Chapter 8: The Final Sacrifice**](./chapter8.md) - *"The ancient temple stood at the edge of the citadel..."*
 - [**Epilogue: Tears of Starlight**](./epilogue.md) - *"One year had passed since the fall of Chronos..."*
 
-<div align="center">
-  <img src="./Cosmic Transformation.png" alt="Cosmic Transformation" width="400px">
-</div>
+<div align="center"><img src="Cosmic Transformation.png" alt="Cosmic Transformation" width="400"></div>
 
 ## 🔮 Previous Story
 
 To read the first part of this epic tale, visit [**The Parrot of a Thousand Stars**](https://iamsh.gitbook.io/daksha).
 
----
+***
 
 ## 📝 Author's Note
 
@@ -58,6 +55,4 @@ Through Prince's transformation, we witness the terrible price of vengeance and 
 
 Yet even in the depths of despair, a single spark of love can illuminate the cosmos.
 
-<div align="center">
-  <p><em>"Love doesn't end with separation or sacrifice. It transforms. It endures. It becomes something greater than either could be alone."</em></p>
-</div>
+_"Love doesn't end with separation or sacrifice. It transforms. It endures. It becomes something greater than either could be alone."_
