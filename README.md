@@ -1,7 +1,7 @@
 # 🌌 Prince: Love, Betrayal, and Revenge
 
 <div align="center">
-  <img src="/poster.png" alt="Prince and Daksha" width="500px">
+  <img src="./poster.png" alt="Prince and Daksha" width="500px">
   <p><em>The heart-wrenching sequel to "The Parrot of a Thousand Stars"</em></p>
 </div>
 
@@ -20,7 +20,7 @@ Was their meeting truly chance, or part of an ancient cosmic plan? As Prince inf
 And in the heart of Veloria, guarded by an all-powerful entity known as Chronos, lies a truth that will shatter everything Prince believed about Daksha and himself. His final confrontation will force him to choose between revenge and redemption—with the fate of multiple worlds hanging in the balance.
 
 <div align="center">
-  <img src="https://i.imgur.com/8XYaLpA.png" alt="Cosmic Divide" width="300px">
+  <img src="./Cosmic Divide.png" alt="Cosmic Divide" width="300px">
 </div>
 
 ## ✨ Journey Through the Cosmos
@@ -41,7 +41,7 @@ And in the heart of Veloria, guarded by an all-powerful entity known as Chronos,
 - [**Epilogue: Tears of Starlight**](chapters/epilogue.md) - *"One year had passed since the fall of Chronos..."*
 
 <div align="center">
-  <img src="https://i.imgur.com/pYVRWQn.png" alt="Cosmic Transformation" width="400px">
+  <img src="./Cosmic Transformation.png" alt="Cosmic Transformation" width="400px">
 </div>
 
 ## 🔮 Previous Story
