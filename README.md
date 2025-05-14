@@ -1,6 +1,8 @@
+---
+description: Love isn't found, it's grown. - Sh
+---
+
 # Prince: Love, Betrayal, and Revenge
-
-
 
 <div data-full-width="true"><figure><img src="poster.png" alt=""><figcaption><p>Prince: Love, Betrayal, and Revenge</p></figcaption></figure></div>
 
@@ -24,20 +26,27 @@ And in the heart of Veloria, guarded by an all-powerful entity known as Chronos,
 
 ## ✨ Journey Through the Cosmos
 
+***
+
+## Love isn't found, it's grown. - Shaswat Raj
+
 ### Part I: The Descent
-- [**Chapter 1: The Hollow Prince**](./chapter1.md) - *"The golden tears had long since dried on Prince's face..."*
-- [**Chapter 2: Whispers from Beyond**](./chapter2.md) - *"The forest seemed to hold its breath as Prince clasped Arjun's hand..."*
-- [**Chapter 3: Awakening the Worthy**](./chapter3.md) - *"Dawn broke over the forest, painting the trees in hues of gold and amber..."*
+
+* [**Chapter 1: The Hollow Prince**](chapter1.md) - _"The golden tears had long since dried on Prince's face..."_
+* [**Chapter 2: Whispers from Beyond**](chapter2.md) - _"The forest seemed to hold its breath as Prince clasped Arjun's hand..."_
+* [**Chapter 3: Awakening the Worthy**](chapter3.md) - _"Dawn broke over the forest, painting the trees in hues of gold and amber..."_
 
 ### Part II: The Infiltration
-- [**Chapter 4: Crossing Dimensions**](./chapter4.md) - *"The moon hung full and heavy in the night sky..."*
-- [**Chapter 5: The Seducer of Souls**](./chapter5.md) - *"Prince knew he was being watched..."*
-- [**Chapter 6: The Palace of Lies**](./chapter6.md) - *"The Royal Palace of Veloria stood at the heart of the citadel..."*
+
+* [**Chapter 4: Crossing Dimensions**](chapter4.md) - _"The moon hung full and heavy in the night sky..."_
+* [**Chapter 5: The Seducer of Souls**](chapter5.md) - _"Prince knew he was being watched..."_
+* [**Chapter 6: The Palace of Lies**](chapter6.md) - _"The Royal Palace of Veloria stood at the heart of the citadel..."_
 
 ### Part III: The Reckoning
-- [**Chapter 7: The King's True Face**](./chapter7.md) - *"Lyra's private quarters within the Palace were a study in contradictions..."*
-- [**Chapter 8: The Final Sacrifice**](./chapter8.md) - *"The ancient temple stood at the edge of the citadel..."*
-- [**Epilogue: Tears of Starlight**](./epilogue.md) - *"One year had passed since the fall of Chronos..."*
+
+* [**Chapter 7: The King's True Face**](chapter7.md) - _"Lyra's private quarters within the Palace were a study in contradictions..."_
+* [**Chapter 8: The Final Sacrifice**](chapter8.md) - _"The ancient temple stood at the edge of the citadel..."_
+* [**Epilogue: Tears of Starlight**](epilogue.md) - _"One year had passed since the fall of Chronos..."_
 
 <div align="center"><img src="Cosmic Transformation.png" alt="Cosmic Transformation" width="400"></div>
 
